@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hey, I'm Rachit</h1>
+<h1 align="center">Hey, I'm Rachit!</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RachitJ05&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
